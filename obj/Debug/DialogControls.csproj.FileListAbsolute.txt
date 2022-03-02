@@ -1,0 +1,10 @@
+C:\Users\david\source\repos\DialogControls\bin\Debug\DialogControls.exe.config
+C:\Users\david\source\repos\DialogControls\bin\Debug\DialogControls.exe
+C:\Users\david\source\repos\DialogControls\bin\Debug\DialogControls.pdb
+C:\Users\david\source\repos\DialogControls\obj\Debug\DialogControls.csprojAssemblyReference.cache
+C:\Users\david\source\repos\DialogControls\obj\Debug\DialogControls.Form1.resources
+C:\Users\david\source\repos\DialogControls\obj\Debug\DialogControls.Properties.Resources.resources
+C:\Users\david\source\repos\DialogControls\obj\Debug\DialogControls.csproj.GenerateResource.cache
+C:\Users\david\source\repos\DialogControls\obj\Debug\DialogControls.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\DialogControls\obj\Debug\DialogControls.exe
+C:\Users\david\source\repos\DialogControls\obj\Debug\DialogControls.pdb
